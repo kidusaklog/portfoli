@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfoli/static/css/main.223c692c.css",
-    "main.js": "/portfoli/static/js/main.961f370e.js",
+    "main.js": "/portfoli/static/js/main.9850098d.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfoli/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfoli/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/portfoli/static/media/Soumyajit_Behera-BIT_MESRA.3fb8837b475cd1ff00b4.pdf",
+    "static/media/Kidus.pdf": "/portfoli/static/media/Kidus.3fb8837b475cd1ff00b4.pdf",
     "static/media/leaf.png": "/portfoli/static/media/leaf.c5dc08f4b5dddf97227f.png",
     "static/media/avatar.png": "/portfoli/static/media/avatar.f12f6116fce2562d2bfa.png",
     "static/media/home-main.png": "/portfoli/static/media/home-main.be75cc5e35a3ea4247b4.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/portfoli/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfoli/index.html",
     "main.223c692c.css.map": "/portfoli/static/css/main.223c692c.css.map",
-    "main.961f370e.js.map": "/portfoli/static/js/main.961f370e.js.map",
+    "main.9850098d.js.map": "/portfoli/static/js/main.9850098d.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfoli/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfoli/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.223c692c.css",
-    "static/js/main.961f370e.js"
+    "static/js/main.9850098d.js"
   ]
 }

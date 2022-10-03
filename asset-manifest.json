@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfoli/static/css/main.223c692c.css",
-    "main.js": "/portfoli/static/js/main.9850098d.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfoli/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfoli/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Kidus.pdf": "/portfoli/static/media/Kidus.3fb8837b475cd1ff00b4.pdf",
-    "static/media/leaf.png": "/portfoli/static/media/leaf.c5dc08f4b5dddf97227f.png",
-    "static/media/avatar.png": "/portfoli/static/media/avatar.f12f6116fce2562d2bfa.png",
-    "static/media/home-main.png": "/portfoli/static/media/home-main.be75cc5e35a3ea4247b4.png",
-    "static/media/about.png": "/portfoli/static/media/about.7270d4f5a46646b3c77d.png",
-    "static/media/codeEditor.png": "/portfoli/static/media/codeEditor.8c83442ddbc24cc3e1d4.png",
-    "static/media/blog.png": "/portfoli/static/media/blog.36ca213737091c63a409.png",
-    "static/media/chatify.png": "/portfoli/static/media/chatify.085744e6b5df9ae8356e.png",
-    "static/media/suicide.png": "/portfoli/static/media/suicide.19fe5cebcf57c532fbcb.png",
-    "static/media/logo.png": "/portfoli/static/media/logo.bcd543d0476e27f9b154.png",
-    "static/media/home-bg.jpg": "/portfoli/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/portfoli/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/portfoli/index.html",
-    "main.223c692c.css.map": "/portfoli/static/css/main.223c692c.css.map",
-    "main.9850098d.js.map": "/portfoli/static/js/main.9850098d.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfoli/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfoli/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfoli-kidus/static/css/main.9f25781d.css",
+    "main.js": "/portfoli-kidus/static/js/main.f6eba84c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfoli-kidus/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfoli-kidus/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Kidus.pdf": "/portfoli-kidus/static/media/Kidus.3fb8837b475cd1ff00b4.pdf",
+    "static/media/leaf.png": "/portfoli-kidus/static/media/leaf.c5dc08f4b5dddf97227f.png",
+    "static/media/avatar.png": "/portfoli-kidus/static/media/avatar.f12f6116fce2562d2bfa.png",
+    "static/media/home-main.png": "/portfoli-kidus/static/media/home-main.be75cc5e35a3ea4247b4.png",
+    "static/media/about.png": "/portfoli-kidus/static/media/about.7270d4f5a46646b3c77d.png",
+    "static/media/codeEditor.png": "/portfoli-kidus/static/media/codeEditor.8c83442ddbc24cc3e1d4.png",
+    "static/media/blog.png": "/portfoli-kidus/static/media/blog.36ca213737091c63a409.png",
+    "static/media/chatify.png": "/portfoli-kidus/static/media/chatify.085744e6b5df9ae8356e.png",
+    "static/media/suicide.png": "/portfoli-kidus/static/media/suicide.19fe5cebcf57c532fbcb.png",
+    "static/media/logo.png": "/portfoli-kidus/static/media/logo.bcd543d0476e27f9b154.png",
+    "static/media/home-bg.jpg": "/portfoli-kidus/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/portfoli-kidus/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfoli-kidus/index.html",
+    "main.9f25781d.css.map": "/portfoli-kidus/static/css/main.9f25781d.css.map",
+    "main.f6eba84c.js.map": "/portfoli-kidus/static/js/main.f6eba84c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfoli-kidus/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfoli-kidus/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.223c692c.css",
-    "static/js/main.9850098d.js"
+    "static/css/main.9f25781d.css",
+    "static/js/main.f6eba84c.js"
   ]
 }

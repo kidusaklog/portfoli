@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.ef5544c0.css",
+    "main.js": "/resume/static/js/main.7f433405.js",
+    "static/js/415.4d6acbeb.chunk.js": "/resume/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/resume/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/resume/static/media/Soumyajit_Behera-BIT_MESRA.3fb8837b475cd1ff00b4.pdf",
+    "static/media/leaf.png": "/resume/static/media/leaf.c5dc08f4b5dddf97227f.png",
+    "static/media/avatar.png": "/resume/static/media/avatar.f12f6116fce2562d2bfa.png",
+    "static/media/home-main.png": "/resume/static/media/home-main.be75cc5e35a3ea4247b4.png",
+    "static/media/about.png": "/resume/static/media/about.7270d4f5a46646b3c77d.png",
+    "static/media/codeEditor.png": "/resume/static/media/codeEditor.8c83442ddbc24cc3e1d4.png",
+    "static/media/blog.png": "/resume/static/media/blog.36ca213737091c63a409.png",
+    "static/media/chatify.png": "/resume/static/media/chatify.085744e6b5df9ae8356e.png",
+    "static/media/suicide.png": "/resume/static/media/suicide.19fe5cebcf57c532fbcb.png",
+    "static/media/logo.png": "/resume/static/media/logo.bcd543d0476e27f9b154.png",
+    "static/media/home-bg.jpg": "/resume/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/resume/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/resume/index.html",
+    "main.ef5544c0.css.map": "/resume/static/css/main.ef5544c0.css.map",
+    "main.7f433405.js.map": "/resume/static/js/main.7f433405.js.map",
+    "415.4d6acbeb.chunk.js.map": "/resume/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/resume/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef5544c0.css",
+    "static/js/main.7f433405.js"
+  ]
+}
